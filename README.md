@@ -14,7 +14,9 @@
 
 
 
-<p align="center">
-    <a href="">Download on itch.io</a>  
-</p>
+<h2 align="center">
+    <a href="">
+    Download on itch.io!!
+    </a>  
+</h2>
 
