@@ -8,9 +8,9 @@
 
 
 
-<p align="center">
-    <h3>Explore this world of shattered universes where everything seems to change!</h3>
-</p>
+<h3 align="center">
+    Explore this world of shattered universes where everything seems to change!
+</h3>
 
 <h2 align="center">
     <a href="">
