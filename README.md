@@ -22,9 +22,11 @@
     Project Team
 </h3>
 
-<p>
+<div>
     <strong>Erick Ueda Cavalcante (Music Composer/Sound Designer)</strong>
-    Made the Forest OST
-    Made the Cutscene Music(Currently in the game files, not playing in the actual game)
-</p>
+    <ul>
+        <li>Composed the Forest OST;</li>
+        <li>Composed the Cutscene Music (currently included in the game files but not yet used in-game).</li>
+    </ul>
+</div>
 
