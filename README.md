@@ -4,7 +4,7 @@
 
 <p align="center">
 
-&#x20; <img src="https://i.imgur.com/N5nlKDM.png" alt="Reminiscence of Shatters Banner" width="900">
+&#x20; <img src="https://i.imgur.com/N5nlKDM.png" alt="Reminiscence of Shatters Banner" width="700">
 
 </p>
 
