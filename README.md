@@ -40,6 +40,26 @@
 </p>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+<h2>
+    Controls
+</h2>
+<p align="center">
+    <img src="https://i.imgur.com/LuOkCrK.png" alt="Reminiscence of Shatters Banner" width="500">
+</p>
+<div>
+    <ul>
+        <li>A - Move Left</li>
+        <li>D - Move Right</li>
+        <li>J - Attack</li>
+        <li>K - Jump</li>
+        <li>L - Dodge</li>
+        <li>I - Drink Potion</li>
+        <li>X - Interact</li>
+        <li>Esc - Open Inventory</li>
+        <li>Right Shift - Open Map</li>
+    </ul>
+</div>
+
 <!------------------------------------------------------------------------- PERSONAGENS PRINCIPAIS ----------------------------------------------------------------------------->
 <h2>
     Characters
