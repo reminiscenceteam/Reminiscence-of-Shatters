@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-    Remember. Gather the memories. Uncover the truth of your past self...
+    <em>Remember. Gather the memories. Uncover the truth of your past self...</em>
 </h3>
 
 <h2 align="center">
@@ -38,6 +38,36 @@
 <p>
     Fortunately, her companions, <strong>01</strong> and <strong>02</strong>, join her on this journey and help her overcome the challenges ahead.
 </p>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!------------------------------------------------------------------------------- PERSONAGENS ----------------------------------------------------------------------------->
+<h2>
+    Characters
+</h2>
+<h3>
+    Main Characters
+</h3>
+<p>
+    <strong>Protagonist</strong>
+</p>
+<table align="center">
+  <tr>
+    <th>Abc2</th>
+    <th>Abc</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="" width="250">
+    </td>
+    <td align="center">
+      <img src="" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Character concept by Kauan</em></td>
+    <td align="center"><em>3D model by João</em></td>
+  </tr>
+</table>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!----------------------------------------------------------------------- INTEGRANTES DO GRUPO ----------------------------------------------------------------------------->
