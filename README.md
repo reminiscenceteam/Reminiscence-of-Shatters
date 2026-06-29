@@ -48,8 +48,7 @@
 <div>
         <strong>João Vitor Trindade Silva (Game Programmer)</strong>
     <ul>
-        <li>Implemented the movement controls;</li>
-        <li>Implemented the jump mechanic;</li>
+        <li>Implemented the movement controls and jump mechanics;</li>
         <li>Implemented the attack and dash mechanics;</li>
         <li>Implemented checkpoint and item interactions;</li>
         <li>Implemented the inventory system;</li>
@@ -77,7 +76,19 @@
         <li>Made the concept art of the <strong>protagonist</strong>;</li>
         <li>Created the dialogue artwork for the <strong>protagonist</strong>;</li>
         <li>Produced promotional illustrations for the game;</li>
-        <li>Created Hand-Drawn sprites for the final cutscene in-game</li>
+        <li>Created Hand-Drawn sprites for the final cutscene in-game;</li>
+        <li>Created sprites of equipmemts and itens.</li>
+    </ul>
+</div>
+
+<div>
+        <strong>Natan Cardoso de Oliveira(Pixel Artist)</strong>
+    <ul>
+        <li>Created sprites for the <strong>protagonist</strong>, <strong>01</strong>, and <strong>02</strong>;</li>
+        <li>Created sprites for the <strong>Lord</strong>;</li>
+        <li>Created sprites for the common enemies (boar, spider, golem);</li>
+        <li>Created the background and tileset for the main forest area and the forest cave;</li>
+        <li>Created the chest sprites;</li>
     </ul>
 </div>
 
@@ -89,6 +100,23 @@
         <li>Audio Editing;</li>
         <li>Audio Mixing;</li>
         <li>Researched and selected royalty-free sound effects.</li>
+    </ul>
+</div>
+
+<div>
+        <strong>Marcelo Alexandre Oliveira Fernandes (Music Composer/Sound Designer)</strong>
+    <ul>
+        <li>Composed the Forest Cave Theme;</li>
+        <li>Researched and selected royalty-free sound effects.</li>
+    </ul>
+</div>
+
+<div>
+        <strong>Gustavo Reis Ramirez Lima (Marketing/Video Editor)</strong>
+    <ul>
+        <li>Managed the studio's Instagram account by promoting the game and sharing development updates;</li>
+        <li>Edited and assembled the opening cutscene, including sound effects, animation frames, and music;</li>
+        <li>Designed promotional posters for the game.</li>
     </ul>
 </div>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
