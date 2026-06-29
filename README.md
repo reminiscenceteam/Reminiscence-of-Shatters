@@ -167,10 +167,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/Xxglktk.png" alt="Concept art of the character 02 angry" width="250">
+      <img src="https://i.imgur.com/Xxglktk.png" alt="Concept art of the character 02 angry" width="500">
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/GUFyYBX.png" alt="Sprite of 02 in its idle state" width="250">
+      <img src="https://i.imgur.com/GUFyYBX.png" alt="Sprite of 02 in its idle state" width="500">
     </td>
   </tr>
   <tr>
