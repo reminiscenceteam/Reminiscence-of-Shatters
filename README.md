@@ -1,4 +1,4 @@
-# <h1 align="center">Remiscence of Shatters</h1>
+# <h1 align="center">Reminiscence of Shatters</h1>
 
 <p align="center">
     <img src="https://i.imgur.com/N5nlKDM.png" alt="Reminiscence of Shatters Banner" width="300">
@@ -152,7 +152,7 @@
 <p>
     The Lord rules over the Forest Realm and shaped its ecosystem. Under his influence, ordinary animals and plants evolved into unique creatures adapted to survive in this world. As the creator of this reality, he stands as its ultimate guardian and greatest threat.
 </p>
-
+---
 <!------------------------------------------------------------------------- PERSONAGENS SECUNDARIOS ----------------------------------------------------------------------------->
 
 <h3>
