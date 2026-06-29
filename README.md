@@ -30,13 +30,13 @@
     Story
 </h2>
 <p>
-    The protagonist, whose name remains a mystery, awakens in a strange forest with no memory of her past. In search of answers about who she once was, she embarks on a journey across multiple dimensions.
+    The protagonist, whose name remains a mystery, awakens in a strange forest with no memory of her past. In search of answers about who she once was, she embarks on a journey across multiple realities.
 </p>
 <p>
-    Throughout her adventure, she encounters powerful beings known as the <strong>Lords</strong>, entities capable of ruling entire dimensions. Determined to prevent her from uncovering the truth about her past, they stand in her way.
+    Throughout her adventure, she encounters powerful beings known as the <strong>Lords</strong>, entities capable of ruling entire realities. Preventing her from uncovering the truth about her past, they stand in her way.
 </p>
 <p>
-    Fortunately, her companions, <strong>01</strong> and <strong>02</strong>, join her on this journey and help her overcome the challenges ahead.
+    Fortunately, her companions, <strong>01</strong> and <strong>02</strong>, join her on this journey and help her overcome the challenges ahead, to the Kingdom of Maggie!
 </p>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -47,13 +47,14 @@
 <h3>
     Main Characters
 </h3>
+
 <p>
-    <strong>???(Protagonist)</strong>
+    <strong>??? (Protagonist)</strong>
 </p>
 <table align="center">
   <tr>
-    <th>Abc2</th>
-    <th>Abc</th>
+    <th>Concept Art</th>
+    <th>Final Pixel Art</th>
   </tr>
   <tr>
     <td align="center">
@@ -64,10 +65,39 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><em>Character concept by Kauan</em></td>
-    <td align="center"><em>3D model by João</em></td>
+    <td align="center"><em>Character concept by Guilherme</em></td>
+    <td align="center"><em>Pixel Art by Natan</em></td>
   </tr>
 </table>
+<p>
+    Having lost all of her memories, ??? embarks on a journey armed only with her mask and her sword. Her destination is the Kingdom of Maggie, a mysterious realm believed to hold the truth about her past. The adventure begins when a strange portal pulls her into another reality.
+</p>
+
+<p>
+    <strong>01</strong>
+</p>
+<table align="center">
+  <tr>
+    <th>Concept Art</th>
+    <th>Final Pixel Art</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/M2OkN6v.png" width="250">
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/CTWrXF5.png" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Character concept by Kauan</em></td>
+    <td align="center"><em>Pixel Art by Natan</em></td>
+  </tr>
+</table>
+<p>
+    01 leads a small group of reality explorers and is the first to meet the protagonist after she is transported to this new reality. As the only human in the group, he takes the young swordswoman to the Kingdom of Maggie, where her journey truly begins.
+</p>
+
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!----------------------------------------------------------------------- INTEGRANTES DO GRUPO ----------------------------------------------------------------------------->
