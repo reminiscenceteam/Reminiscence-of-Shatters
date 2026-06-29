@@ -223,7 +223,7 @@
       <img src="https://i.imgur.com/X0NCbtJ.png" alt="First version of the boar that got discarded later on" width="250">
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/A6REQaw.png" alt="Final sprite of the boar" width="250">
+      <img src="https://i.imgur.com/A6REQaw.png" alt="Final sprite of the boar" width="300">
     </td>
   </tr>
   <tr>
@@ -245,7 +245,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/GZ1CmEY.png" alt="Final sprite of th golem" width="250">
+      <img src="https://i.imgur.com/GZ1CmEY.png" alt="Final sprite of th golem" width="300">
     </td>
   </tr>
   <tr>
@@ -271,7 +271,7 @@
       <img src="https://i.imgur.com/qNFfLia.png" alt="First version of the spider with dark eyes" width="250">
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/7z6ODjS.png" alt="Final sprite of the spider" width="250">
+      <img src="https://i.imgur.com/7z6ODjS.png" alt="Final sprite of the spider" width="300">
     </td>
   </tr>
   <tr>
