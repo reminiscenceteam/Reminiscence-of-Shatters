@@ -153,7 +153,6 @@
     The Lord rules over the Forest Realm and shaped its ecosystem. Under his influence, ordinary animals and plants evolved into unique creatures adapted to survive in this world. As the creator of this reality, he stands as its ultimate guardian and greatest threat.
 </p>
 
----
 
 <!------------------------------------------------------------------------- PERSONAGENS SECUNDARIOS ----------------------------------------------------------------------------->
 
