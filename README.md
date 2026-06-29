@@ -48,11 +48,9 @@
 <div>
         <strong>João Vitor Trindade Silva (Game Programmer)</strong>
     <ul>
-        <li>Implemented the movement controls and jump mechanics;</li>
-        <li>Implemented the attack and dash mechanics;</li>
+        <li>Implemented the movement controls, jump, attack, and dash mechanics;</li>
+        <li>Implemented the health bar, inventory, and leveling system;</li>
         <li>Implemented checkpoint and item interactions;</li>
-        <li>Implemented the inventory system;</li>
-        <li>Implemented the leveling system;</li>
         <li>Implemented NPC behaviours;</li>
         <li>Implemented little cutscenes in-game and change of scenes;</li>
         <li>Implemented the sprites, sound effects, and the soundtrack into the game;</li>
