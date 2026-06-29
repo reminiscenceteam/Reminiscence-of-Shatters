@@ -1,15 +1,11 @@
-# <h1 align="center">Remiscence of Shatters Demo</h1>
-
-
+# <h1 align="center">Remiscence of Shatters</h1>
 
 <p align="center">
     <img src="https://i.imgur.com/N5nlKDM.png" alt="Reminiscence of Shatters Banner" width="300">
 </p>
 
-
-
 <h3 align="center">
-    Explore this world of shattered universes where everything seems to change!
+    Remember. Gather the memories. Uncover the truth of your past self...
 </h3>
 
 <h2 align="center">
@@ -17,16 +13,83 @@
     Download on itch.io!!
     </a>  
 </h2>
+<!------------------------------------------------------------------------------- SOBRE ----------------------------------------------------------------------------------->
+<h2>
+    About
+</h2>
+<p>
+    Reminiscence of Shatters is a 2D Metroidvania developed in 2024 as a Final Year Project for the Game Development technical course at ETEC Parque da Juventude.
+</p>
+<p>
+    Each area in the game is designed to feature its own story, theme, and art style. However, <strong>only the Forest area was completed for the final project.</strong>
+</p>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------------- HISTORIA ----------------------------------------------------------------------------->
+<h2>
+    Story
+</h2>
+<p>
+    The protagonist, whose name remains a mystery, awakens in a strange forest with no memory of her past. In search of answers about who she once was, she embarks on a journey across multiple dimensions.
+</p>
+<p>
+    Throughout her adventure, she encounters powerful beings known as the <strong>Lords</strong>, entities capable of ruling entire dimensions. Determined to prevent her from uncovering the truth about her past, they stand in her way.
+</p>
+<p>
+    Fortunately, her companions, <strong>01</strong> and <strong>02</strong>, join her on this journey and help her overcome the challenges ahead.
+</p>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!----------------------------------------------------------------------- INTEGRANTES DO GRUPO ----------------------------------------------------------------------------->
 <h2>
     Project Team
 </h2>
 
 <div>
-    <strong>Erick Ueda Cavalcante (Music Composer/Sound Designer)</strong>
+        <strong>João Vitor Trindade Silva (Game Programmer)</strong>
     <ul>
-        <li>Composed the Forest OST;</li>
-        <li>Composed the Cutscene Music (currently included in the game files but not yet used in-game).</li>
+        <li>Implemented the movement controls;</li>
+        <li>Implemented the jump mechanic;</li>
+        <li>Implemented the attack and dash mechanics;</li>
+        <li>Implemented checkpoint and item interactions;</li>
+        <li>Implemented the inventory system;</li>
+        <li>Implemented the leveling system;</li>
+        <li>Implemented NPC behaviours;</li>
+        <li>Implemented little cutscenes in-game and change of scenes;</li>
+        <li>Implemented the sprites, sound effects, and the soundtrack into the game;</li>
+        <li>Wrote the Game Design Document(GDD).</li>
     </ul>
 </div>
+
+<div>
+        <strong>Kauan da Silva Peres (Game Artist)</strong>
+    <ul>
+        <li>Made the concept art of <strong>"01"</strong> and <strong>"02"</strong>;</li>
+        <li>Created the dialogue artwork for characters <strong>"01"</strong> and <strong>"02"</strong>;</li>
+        <li>Produced promotional illustrations for the game;</li>
+        <li>Illustrated and animated all frames for the opening cutscene.</li>
+    </ul>
+</div>
+
+<div>
+        <strong>Guilherme Carvalho Venancio (Game Artist)</strong>
+    <ul>
+        <li>Made the concept art of the <strong>protagonist</strong>;</li>
+        <li>Created the dialogue artwork for the <strong>protagonist</strong>;</li>
+        <li>Produced promotional illustrations for the game;</li>
+        <li>Created Hand-Drawn sprites for the final cutscene in-game</li>
+    </ul>
+</div>
+
+<div>
+        <strong>Erick Ueda Cavalcante (Music Composer/Sound Designer)</strong>
+    <ul>
+        <li>Composed the Forest Main Theme;</li>
+        <li>Composed the Cutscene Music (included in the game files but was not used in-game);</li>
+        <li>Audio Editing;</li>
+        <li>Audio Mixing;</li>
+        <li>Researched and selected royalty-free sound effects.</li>
+    </ul>
+</div>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
