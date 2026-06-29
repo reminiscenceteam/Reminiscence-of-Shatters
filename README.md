@@ -84,9 +84,9 @@
     <ul>
         <li>Created sprites for the <strong>protagonist</strong>, <strong>01</strong>, and <strong>02</strong>;</li>
         <li>Created sprites for the <strong>Lord</strong>;</li>
-        <li>Created sprites for the common enemies (boar, spider, golem);</li>
+        <li>Created sprites for the common enemies (boar, spider, and golem);</li>
         <li>Created the background and tileset for the main forest area and the forest cave;</li>
-        <li>Created the chest sprites;</li>
+        <li>Created the chest sprites.</li>
     </ul>
 </div>
 
@@ -95,8 +95,7 @@
     <ul>
         <li>Composed the Forest Main Theme;</li>
         <li>Composed the Cutscene Music (included in the game files but was not used in-game);</li>
-        <li>Audio Editing;</li>
-        <li>Audio Mixing;</li>
+        <li>Audio Editing and Mixing;</li>
         <li>Researched and selected royalty-free sound effects.</li>
     </ul>
 </div>
