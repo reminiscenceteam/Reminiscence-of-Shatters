@@ -30,24 +30,24 @@
     Story
 </h2>
 <p>
-    The protagonist, whose name remains a mystery, awakens in a strange forest with no memory of her past. In search of answers about who she once was, she embarks on a journey across multiple realities.
+    The protagonist, whose name remains a mystery, awakens in a strange forest with no memory of her past. In search of answers about who she once was and who wiped humanity's memories, she embarks on a journey to the Kingdom of Maggie.
 </p>
 <p>
-    Throughout her adventure, she encounters powerful beings known as the <strong>Lords</strong>, entities capable of ruling entire realities. Preventing her from uncovering the truth about her past, they stand in her way.
+    Throughout her adventure, she encounters powerful beings known as the <strong>Lords</strong>, entities capable of ruling entire realities. Determined to prevent her from uncovering the truth about her past, they stand in her way.
 </p>
 <p>
-    Fortunately, her companions, <strong>01</strong> and <strong>02</strong>, join her on this journey and help her overcome the challenges ahead, to the Kingdom of Maggie!
+    Fortunately, her companions, <strong>01</strong> and <strong>02</strong>, join her on this journey and help her overcome the challenges ahead!
 </p>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<!------------------------------------------------------------------------------- PERSONAGENS ----------------------------------------------------------------------------->
+<!------------------------------------------------------------------------- PERSONAGENS PRINCIPAIS ----------------------------------------------------------------------------->
 <h2>
     Characters
 </h2>
+
 <h3>
     Main Characters
 </h3>
-
 <p>
     <strong>??? (Protagonist)</strong>
 </p>
@@ -152,6 +152,36 @@
 <p>
     The Lord rules over the Forest Realm and shaped its ecosystem. Under his influence, ordinary animals and plants evolved into unique creatures adapted to survive in this world. As the creator of this reality, he stands as its ultimate guardian and greatest threat.
 </p>
+
+<!------------------------------------------------------------------------- PERSONAGENS SECUNDARIOS ----------------------------------------------------------------------------->
+
+<h3>
+    Important Characters
+</h3>
+<p>
+    <strong>Margareth and Gael</strong>
+</p>
+<table align="center">
+  <tr>
+    <th colspan="2">Parts of the opening cutscene</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/Xxglktk.png" alt="Concept art of the character 02 angry" width="250">
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/GUFyYBX.png" alt="Sprite of 02 in its idle state" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><em>Illustrations by Kauan</em></td>
+  </tr>
+</table>
+<p>
+    Prince Gael and the mage Margareth are two of the most influential figures in the history of the Kingdom of Maggie. Their research into magic led to the discovery of other realities and the creation of the first interdimensional portal. Venturing into the Original Reality, Armageddon, they uncovered secrets that would forever change the fate of every world.
+</p>
+
+
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
