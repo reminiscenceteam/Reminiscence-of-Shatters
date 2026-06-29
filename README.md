@@ -139,10 +139,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/BaTOJDH.png" alt="Concept art of the character 02 angry" width="250">
+      <img src="https://i.imgur.com/BaTOJDH.png" alt="The initial concept for the lord" width="250">
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/FuHTpUU.png" alt="Sprite of 02 in its idle state" width="250">
+      <img src="https://i.imgur.com/FuHTpUU.png" alt="The final concept for the lord" width="250">
     </td>
   </tr>
   <tr>
@@ -153,9 +153,7 @@
     The Lord rules over the Forest Realm and shaped its ecosystem. Under his influence, ordinary animals and plants evolved into unique creatures adapted to survive in this world. As the creator of this reality, he stands as its ultimate guardian and greatest threat.
 </p>
 
-
-<!------------------------------------------------------------------------- PERSONAGENS SECUNDARIOS ----------------------------------------------------------------------------->
-
+<!------------------------------------------------------------------------- PERSONAGENS IMPORTANTES ----------------------------------------------------------------------------->
 <h3>
     Important Characters
 </h3>
@@ -168,10 +166,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/Xxglktk.png" alt="Concept art of the character 02 angry" width="500">
+      <img src="https://i.imgur.com/Xxglktk.png" alt="Illustration of gael and margareth looking at each other" width="500">
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/GUFyYBX.png" alt="Sprite of 02 in its idle state" width="500">
+      <img src="https://i.imgur.com/GUFyYBX.png" alt="Gael and Margareth scared looking at something" width="500">
     </td>
   </tr>
   <tr>
@@ -194,10 +192,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/tbkyQ8x.png" alt="Concept art of the character 02 angry" width="500">
+      <img src="https://i.imgur.com/tbkyQ8x.png" alt="Humanity with dark aura emanating" width="500">
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/1XTD6pl.jpeg" alt="Sprite of 02 in its idle state" width="500">
+      <img src="https://i.imgur.com/1XTD6pl.jpeg" alt="Humanity with its face shattered like a mirror" width="500">
     </td>
   </tr>
   <tr>
@@ -208,6 +206,81 @@
     Among all the Lords, only one could speak the language of humans. Known as HUMANITY, this Lord ruled over the Human Reality and believed that mankind deserved a chance to shape its own destiny. Defying the other Lords, HUMANITY opposed their plan to erase humanity's memories, and following the events in Armageddon, his fate became unknown. His disappearance remains one of the greatest mysteries surrounding the Lords.
 </p>
 
+<!---------------------------------------------------------------------------- INIMIGOS COMUNS ----------------------------------------------------------------------------->
+<h3>
+    Common Enemies
+</h3>
+<p>
+    <strong>Boar</strong>
+</p>
+<table align="center">
+  <tr>
+    <th>First Version</th>
+    <th>Final Pixel Art</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/X0NCbtJ.png" alt="First version of the boar that got discarded later on" width="250">
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/A6REQaw.png" alt="Final sprite of the boar" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><em>Character concept by Kauan</em></td>
+  </tr>
+</table>
+<p>
+    Living in the forest, the boar charges at anyone who threatens it.
+</p>
+
+---
+
+<p>
+    <strong>Golem</strong>
+</p>
+<table align="center">
+  <tr>
+    <th>Final Pixel Art</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/GZ1CmEY.png" alt="Final sprite of th golem" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Character concept by Kauan</em></td>
+  </tr>
+</table>
+<p>
+    Guarding the heart of the forest, the golem awakens to those who challenge it.
+</p>
+
+---
+
+<p>
+    <strong>Spider</strong>
+</p>
+<table align="center">
+  <tr>
+    <th>First Version</th>
+    <th>Final Pixel Art</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/qNFfLia.png" alt="First version of the spider with dark eyes" width="250">
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/7z6ODjS.png" alt="Final sprite of the spider" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><em>Character concept by Kauan</em></td>
+  </tr>
+</table>
+<p>
+    Lurking in the darkest corners of the cave, the spider attacks with its exposed guts, devouring anyone who enters its nest.
+</p>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!----------------------------------------------------------------------- INTEGRANTES DO GRUPO ----------------------------------------------------------------------------->
