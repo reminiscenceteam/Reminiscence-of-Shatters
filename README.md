@@ -181,7 +181,31 @@
     Prince Gael and the mage Margareth are two of the most influential figures in the history of the Kingdom of Maggie. Their research into magic led to the discovery of other realities and the creation of the first interdimensional portal. Venturing into the Original Reality, Armageddon, they uncovered secrets that would forever change the fate of every world.
 </p>
 
+---
 
+<p>
+    <strong>HUMANITY</strong>
+</p>
+<table align="center">
+  <tr>
+    <th>Part of opening cutscene</th>
+    <th>Promotional Art</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/tbkyQ8x.png" alt="Concept art of the character 02 angry" width="500">
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/1XTD6pl.jpeg" alt="Sprite of 02 in its idle state" width="500">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><em>Illustrations by Kauan</em></td>
+  </tr>
+</table>
+<p>
+    Among all the Lords, only one could speak the language of humans. Known as HUMANITY, this Lord ruled over the Human Reality and believed that mankind deserved a chance to shape its own destiny. Defying the other Lords, HUMANITY opposed their plan to erase humanity's memories, and following the events in Armageddon, his fate became unknown. His disappearance remains one of the greatest mysteries surrounding the Lords.
+</p>
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
