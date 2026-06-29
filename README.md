@@ -48,7 +48,7 @@
     Main Characters
 </h3>
 <p>
-    <strong>Protagonist</strong>
+    <strong>???(Protagonist)</strong>
 </p>
 <table align="center">
   <tr>
@@ -57,10 +57,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="" width="250">
+      <img src="https://i.imgur.com/08DsjHR.png" width="250">
     </td>
     <td align="center">
-      <img src="" width="250">
+      <img src="https://i.imgur.com/m1jZS9L.png" width="250">
     </td>
   </tr>
   <tr>
