@@ -44,7 +44,7 @@
     Controls
 </h2>
 <p align="center">
-    <img src="https://i.imgur.com/LuOkCrK.png" alt="Reminiscence of Shatters Banner" width="500">
+    <img src="https://i.imgur.com/LuOkCrK.png" alt="Reminiscence of Shatters Banner" width="1000">
 </p>
 <div>
     <ul>
