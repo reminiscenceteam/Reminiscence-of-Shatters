@@ -146,7 +146,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><em>Pixel Art by Natan</em></td>
+    <td align="center" colspan="2"><em>Pixel Art by Natan</em></td>
   </tr>
 </table>
 <p>
