@@ -49,13 +49,13 @@
 </p>
 <div>
     <ul>
-        <li>A - Move Left</li>
-        <li>D - Move Right</li>
+        <li>A/D - Move Left/Right</li>
         <li>J - Attack</li>
         <li>K - Jump</li>
         <li>L - Dodge</li>
         <li>I - Drink Potion</li>
         <li>X - Interact</li>
+        <li>Z - Read</li>
         <li>Esc - Open Inventory</li>
         <li>Right Shift - Open Map</li>
     </ul>
