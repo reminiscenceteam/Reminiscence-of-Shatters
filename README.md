@@ -18,7 +18,7 @@
     About
 </h2>
 <p>
-    Reminiscence of Shatters is a 2D Metroidvania developed in 2024 as a Final Year Project for the Game Development technical course at ETEC Parque da Juventude.
+    Reminiscence of Shatters is a 2D Metroidvania featuring fast-paced combat, non-linear exploration, and RPG-inspired character progression through stat upgrades and equipment. It was developed in 2024 as a Final Year Project for the Game Development technical course at ETEC Parque da Juventude.
 </p>
 <p>
     Each area in the game is designed to feature its own story, theme, and art style. However, <strong>only the Forest area was completed for the final project.</strong>
